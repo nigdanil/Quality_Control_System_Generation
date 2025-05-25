@@ -1,3 +1,4 @@
+// touched for cleanup
 module github.com/nigdanil/Quality_Control_System_Generation
 
 go 1.23.0
