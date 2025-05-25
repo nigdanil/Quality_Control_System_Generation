@@ -1,0 +1,25 @@
+# Binaries
+*.exe
+*.out
+*.log
+*.test
+
+# IDE config
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependency folders
+vendor/
+
+# SQLite (если не нужен в Git)
+Quality_Control.SQLite
+
+# Images
+images/*.png
+
+# Env vars
+.env
